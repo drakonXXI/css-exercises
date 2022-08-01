@@ -88,3 +88,9 @@ li a {
   justify-content: center;
   align-items: center;
 }
+
+
+img {
+  width: 25px;
+  height: auto;
+}
